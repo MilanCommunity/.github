@@ -1,14 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-Welcome, to [Milan's](https://milanhub.org) official community. Join us and contribute for a change !
+<img src="https://raw.githubusercontent.com/MilanCommunity/Milan/main/src/assets/pictures/Banner/MilanSEO.svg" />
 
-<!--
+<br/> 
+</div>
 
-**Here are some ideas to get you started:**
+<h3>What are we building? </h3>
+We are trying to build a hub that essentially connects Users, NGOs, Charities and other organizations to collaborate and work together to make the world a better place. <br/> <br/> 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h3>How do i contribute ? </h3>
+Be it changes to code, or non-code all the contributions are welcomed. Here's a list of Opensource projects in our community you can contribute to. <br/> <br/>
+
+- **[Milan's Frontend](https://github.com/MilanCommunity/Milan)**
+- **[Milan's Backend](https://github.com/MilanCommunity/Milan-Backend)**
+- **[Milan's Admin Panel](https://github.com/MilanCommunity/Milan-Admin)**
+
+
+<h3>What are the rules that i need to follow ? </h3>
+Each and every Opensource project has a specific set of rules and regulations that they need to abide by. Here's ours 👇🏻 <br/> <br/>
+
+- **[Code of Conduct](https://github.com/MilanCommunity/Milan)**
+- **[Contributing Conduct](https://github.com/MilanCommunity/Milan/blob/main/CONTRIBUTING.md)**
