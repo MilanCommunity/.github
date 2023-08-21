@@ -14,17 +14,16 @@ chore(refactor): refactored legacy codes for server
 🔴🔴🔴 MAKE SURE YOU FOLLOW THESE !  -->
 
 
-### 🚧 Fixes Issue <!--- ADD YOUR ISSUE NUMBER LIKE #11 (NO SPACES BETWEEN # & ISSUE NUMBER) -->
+<!--- ADD YOUR ISSUE NUMBER LIKE #11 (NO SPACES BETWEEN # & ISSUE NUMBER) -->
 
 closes #
 
 
-### Changes made 👷🏻 <!--- A clear and concise (minimum 2 line) description of what you have done to successfully close your assigned issue.--->
+### 👷🏻 Changes made  
+<!--- A clear and concise (minimum 2 line) description of what you have done to successfully close your assigned issue.--->
 
 
 
-### Screenshots <!--- (Remove this section if no SS) --> 📸
-
-
-### Note to Reviewers <!--- Any new files? or anything you feel to let us know! --->
+### 📸 Screenshots 
+<!--- (Remove this section if no SS) --> 
 
